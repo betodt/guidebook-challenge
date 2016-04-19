@@ -2,7 +2,7 @@
 
 ###The Setup
 1. Clone the project into a directory `git clone https://github.com/betodt/guidebook-challenge.git`
-2. Install the dependencies using `npm install`
+2. In the`guidebook-challenge` directory, install the dependencies using `npm install`
 3. Compile the code using `browserify -t babelify app.js -o bundle.js`
 4. Open the `index.html` in a browser and search away!
 
